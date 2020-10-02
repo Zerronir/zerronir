@@ -12,13 +12,13 @@ Nowadays I'm currently working as a web developer for Smart Baby SLU and Tecno B
 For my free time, I normally search for costumers and read comics/books or play videogames. Being a Star Wars hardcore fan nowadays is a quite challenging life.
 If you wanna get in touch you can head to my LinkedIn page and send me a PM https://www.linkedin.com/in/rmcwebdesign/
 
-# Front-End Technologies I develop on
+# Front-End Technologies:
 - HTML5
 - CSS3
 - Javascript
 - Bootstrap
 
-# Back-End Technologies I use
+# Back-End Technologies:
 - PHP
 - Laravel
 - October
