@@ -3,7 +3,7 @@
 Let me introduce myself a little:
 
 # About me
-I'm a 23-year-old developer, why I decided to become a developer? I still don't know why I want to suffer so much but, surely I'll get the point someday.
+I'm a 24-year-old developer, why I decided to become a developer? I still don't know why I want to suffer so much but, surely I'll get the point someday.
 
 Jokes apart... I decided to become a developer to help people get their ideas running efficiently and also help them with their business growth using the latest technologies in the market, meaning that I'm always learning new technologies.
 
