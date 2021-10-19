@@ -17,6 +17,8 @@ If you wanna get in touch you can head to my LinkedIn page and send me a PM http
 - CSS3
 - Javascript
 - Bootstrap
+- React
+- Vue
 
 # Back-End Technologies:
 - PHP
