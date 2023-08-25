@@ -12,10 +12,16 @@ Let me introduce myself a little:
 
 # Back-End Technologies:
 - PHP
-- Laravel
-- October
+    - Symfony
+    - Laravel
+    - October
 - Java
+    - Spring
+    - Springboot
+    - Hibernate
 - Nodejs
+    - Express
+    - AdonisJS
 - Python
-- Django
+    - Django
 - C#
